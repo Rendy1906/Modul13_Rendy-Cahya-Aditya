@@ -1,0 +1,16 @@
+.Title {
+    background-image: linear-gradient(#fde90e, #fff690) ;
+    box-shadow: 0 4px 12px 0 #ff0000;
+    margin-bottom: 20px;
+    color: #000000; 
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Brush Script MT';
+    font-variant: small-caps;
+    padding: 50px;
+}
+
+.tab { 
+    display:inline-block; 
+    margin-left: 40px; 
+}
