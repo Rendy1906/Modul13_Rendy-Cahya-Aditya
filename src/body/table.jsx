@@ -1,8 +1,9 @@
 import Table from 'react-bootstrap/Table';
+import './table.css'
 
 function DarkExample() {
     return (
-        <Table striped bordered hover variant="light">
+        <Table striped bordered hover variant="secondary">
             <thead>
                 <tr>
                     <th>Title</th>
